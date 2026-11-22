@@ -1,0 +1,14 @@
+UNEMPLOYMENT ANALYSIS - KEY FINDINGS
+Cleaned area-level records: 740; cleaned state-month records: 267.
+The area-level file spans May 2019 to June 2020; the state file ends in October 2020 despite its filename referring to November 2020.
+Jan-Feb 2020 state mean: 9.23%.
+Apr-May 2020 state mean: 22.75%.
+Early-pandemic change: +13.52 percentage points (+146.4% relative to Jan-Feb).
+Among 26 states with records in both comparison periods, the mean state-level change was +13.80 percentage points and the median was +11.20 points.
+Highest simple-mean state rate occurred in May 2020: 23.24%.
+Largest state-level Jan-Feb to Apr-May increase: Puducherry (+65.85 percentage points); check the state change table for each state's observation count.
+Rural/urban series: rural peak 21.75% in April 2020; urban peak 28.40% in May 2020.
+The area-level file supports rural/urban monthly comparisons; the second file supports state-level 2020 comparisons.
+Unweighted state means give each reported state record equal influence. The weighted series estimates labor-force weights from the supplied employed counts and rate estimates.
+State coverage varies by month, so period means may have different state composition. The matched-state comparison reduces that issue; interpret extreme state changes alongside their record counts.
+The short observation window cannot establish recurring annual seasonality. The before/after comparison is descriptive and does not by itself prove that COVID caused the observed changes.

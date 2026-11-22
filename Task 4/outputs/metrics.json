@@ -1,0 +1,20 @@
+{
+  "dataset": "Advertising.csv",
+  "rows_used": 200,
+  "rows_removed_for_missing_or_invalid_values": 0,
+  "train_rows": 160,
+  "test_rows": 40,
+  "features": [
+    "TV",
+    "Radio",
+    "Newspaper"
+  ],
+  "target": "Sales",
+  "selection_metric": "mean 5-fold training RMSE",
+  "selected_model": "Random forest",
+  "test_mae": 0.6506516070214522,
+  "test_rmse": 0.8127214444243102,
+  "test_r2": 0.9790734809395036,
+  "random_state": 42,
+  "interpretation_note": "Coefficients describe associations in this observational dataset, not causal effects."
+}

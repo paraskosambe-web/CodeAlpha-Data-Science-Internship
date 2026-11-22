@@ -1,0 +1,15 @@
+{
+  "dataset": "car data.csv",
+  "rows_used": 301,
+  "train_rows": 240,
+  "test_rows": 61,
+  "target": "Selling_Price",
+  "currency_units": "same units as Selling_Price in the supplied dataset",
+  "vehicle_age_reference_year": 2018,
+  "selection_metric": "mean 5-fold training RMSE",
+  "selected_model": "Gradient boosting",
+  "test_mae": 0.7781677447813992,
+  "test_rmse": 1.1698168968741538,
+  "test_r2": 0.9405931474841936,
+  "random_state": 42
+}

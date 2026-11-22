@@ -1,0 +1,23 @@
+{
+  "dataset": "Iris.csv",
+  "rows_used": 150,
+  "feature_columns": [
+    "SepalLengthCm",
+    "SepalWidthCm",
+    "PetalLengthCm",
+    "PetalWidthCm"
+  ],
+  "target_column": "Species",
+  "train_rows": 120,
+  "test_rows": 30,
+  "random_state": 42,
+  "selection_metric": "mean 5-fold training macro F1",
+  "selected_model": "Logistic regression",
+  "test_accuracy": 0.9333333333333333,
+  "test_macro_f1": 0.9333333333333332,
+  "classes": [
+    "Iris-setosa",
+    "Iris-versicolor",
+    "Iris-virginica"
+  ]
+}

@@ -1,0 +1,6 @@
+ADVERTISING SALES - KEY FINDINGS
+Selected model: Random forest; holdout MAE 0.651, RMSE 0.813, R² 0.979.
+In a multiple linear regression fitted on the training split, Radio had the largest positive coefficient (0.1892 sales units per spend unit).
+Newspaper had the smallest coefficient (0.0028) after accounting for the other channels.
+Use channel coefficients as directional associations in this dataset, not as guaranteed returns or causal effects. Validate campaigns with controlled experiments and current spend data before reallocating budget.
+The supplied data has no time column, so this is an ad-spend-to-sales regression rather than a chronological forecast.
